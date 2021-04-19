@@ -22,11 +22,10 @@ Então sinta-se avontade e dê uma explorada!
 <div style="diplay:flex; border: 3px solid red" align="center">
 <!--  <img width="30%" align="right" alt="Github Image" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"/> -->
 
-  <img width="28%" align="top" alt="Alex Santos's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexssantos&count_private=true&theme=dracula">
-
-<!--
-  <img width="67%" alt="Alex Santos's github stats" src="https://github-readme-stats.vercel.app/api?username=alexssantos&show_icons=true&theme=tokyonight" />
- -->
+<img width="28%" align="top" alt="Alex Santos's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexssantos&count_private=true&theme=dracula">
+  
+<img width="67%" alt="Alex Santos's github stats" src="https://github-readme-stats.vercel.app/api?username=alexssantos&show_icons=true&theme=tokyonight" />
+  
 <div/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexssantos/)](https://www.linkedin.com/in/alexssantos/)
@@ -36,7 +35,6 @@ Então sinta-se avontade e dê uma explorada!
 <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=duartecgustavo.duartecgustavo" />
 [![Gist Badge](https://img.shields.io/badge/-Gist-555859?style=flat-square&logo=Github&logoColor=white&link=https://gist.github.com/alexssantos)](https://gist.github.com/alexssantos)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alexssantos)](https://github.com/alexssantos)
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=alexssantos&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=default)](https://github.com/alexssantos)
 
 <!--
 **alexssantos/alexssantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
