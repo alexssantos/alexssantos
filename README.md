@@ -1,4 +1,33 @@
-### Hi there 👋
+<h1 align="center"> Alex Santos 😉 </h1>
+
+<p align="center">
+  E aí amigo(a), como vai? Seja muito <b>bem vindo</b> ao meu Github!
+<p/>
+
+<p align="center">
+<!-- Me chamo Gustavo, sou um desenvolvedor Full Stack de 22 anos e apaixonado pelo universo da tecnologia. 
+Busco aprender e me desenvolver a cada dia e uso o meu Github não só como uma plataforma para armazenar e demonstrar meus códigos mas também como um ambiente pessoal de auto-incentivo onde eu possa sempre estar evoluindo e observando esta evolução.
+-->
+<p/>
+
+<p align="center">
+  <!--
+Por aqui tenho conteúdo de Javascript, HTML, CSS, React, Bootstrap, Python, PHP e Markdown.<br>
+Então sinta-se avontade e dê uma explorada!
+-->
+<p/>
+
+---
+
+<div style="diplay:flex; border: 3px solid red" align="center">
+<!--  <img width="30%" align="right" alt="Github Image" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"/> -->
+
+  <img width="27%" align="top" alt="Alex Santos's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexssantos&count_private=true&theme=dracula">
+
+  <img width="67%" alt="Alex Santos's github stats" src="https://github-readme-stats.vercel.app/api?username=alexssantos&show_icons=true&theme=tokyonight" />
+ 
+<div/>
+
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=alexssantos.visitor-badge)](https://github.com/alexssantos)
 [![Gist Badge](https://img.shields.io/badge/-Gist-555859?style=flat-square&logo=Github&logoColor=white&link=https://gist.github.com/alexssantos)](https://gist.github.com/alexssantos)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alexssantos)](https://github.com/alexssantos)
