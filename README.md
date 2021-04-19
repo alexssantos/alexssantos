@@ -5,16 +5,15 @@
 <p/>
 
 <p align="center">
-<!-- Me chamo Gustavo, sou um desenvolvedor Full Stack de 22 anos e apaixonado pelo universo da tecnologia. 
-Busco aprender e me desenvolver a cada dia e uso o meu Github não só como uma plataforma para armazenar e demonstrar meus códigos mas também como um ambiente pessoal de auto-incentivo onde eu possa sempre estar evoluindo e observando esta evolução.
--->
+Me chamo Alex, graduando em Software Engineer e atuando como Full Stack Developer atualmente no @BTGPactual. As principais tecnologias que uso são Angular e .NET mas também brinco com Flutter, python, Java e algumas coisas de Cloud. 
+Busco aprender e me desenvolver a cada dia e uso o meu Github não só como uma plataforma para armazenar e demonstrar meus códigos mas também como um ambiente pessoal de auto-incentivo onde eu possa sempre estar evoluindo, observando esta evolução e contribuindo com projetos open-source.
+Adoro jogar video-game e meus principais estilos são estratégia (NORTHGARD, Civilization, ANNO), corrida (NFS, Forza, Grant Turismo) e tiro (CS GO, CoD). 
+
 <p/>
 
 <p align="center">
-  <!--
-Por aqui tenho conteúdo de Javascript, HTML, CSS, React, Bootstrap, Python, PHP e Markdown.<br>
+Por aqui tenho conteúdo .NET, Angular, Android, Pythonm, Java e outros.<br>
 Então sinta-se avontade e dê uma explorada!
--->
 <p/>
 
 ---
