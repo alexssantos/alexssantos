@@ -5,7 +5,7 @@
 <p/>
 
 <p align="center">
-Me chamo Alex, graduando em Software Engineer e atuando como Full Stack Developer atualmente no @BTGPactual. 
+Me chamo Alex, graduando em Software Engineer e atuando como Full Stack Developer atualmente no @viavarejo 
 </p>
 
 <p align="center">
