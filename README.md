@@ -30,7 +30,7 @@ Então sinta-se a vontade e dê uma explorada!
 <div/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexssantos/)](https://www.linkedin.com/in/alexssantos/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arkanjo.alex@hotmail.com)](mailto:arkanjo.alex@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexssantos.soft.eng@gmail.com)](mailto:alexssantos.soft.eng@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/alexssantos0/)](https://t.me/alexssantos0/)
 <img alt="ProfilViews" src="https://views.whatilearened.today/views/github/duartecgustavo/duartecgustavo.svg" />
 <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=duartecgustavo.duartecgustavo" />
